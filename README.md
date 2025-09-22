@@ -24,10 +24,6 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
       <td><a href="">Itch Page</td>
       <td><a href="">Itch Page</td>
     </tr>
-    <tr>
-      <td></td>
-      <td><a href="https://itch.io/jam/brackeys-7/rate/1408323">Jam Page</td>
-    </tr>
   </tbody>
 </table>
 
@@ -52,10 +48,6 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
     <tr>
       <td><a href="">Itch Page</td>
       <td><a href="">Itch Page</td>
-    </tr>
-    <tr>
-      <td><a href="">Jam Page</td>
-      <td><a href="">Jam Page</td>
     </tr>
   </tbody>
 </table>
