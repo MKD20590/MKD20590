@@ -8,6 +8,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   <thead>
     <tr>
       <th width="50%"><a href="">Santapan Nusantara</a></th>
+      <td><img src="https://img.itch.zone/aW1nLzIzMDE1MjM2LnBuZw==/347x500/dsnUsN.png"/></td>
       <th width="50%"><a href="">Ngonten Aja Dulu</a></th>
     </tr>
     <tr>
@@ -17,11 +18,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.itch.zone/aW1nLzIzMDE1MjM2LnBuZw==/347x500/dsnUsN.png"/></td>
       <td><img src=""/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.itch.zone/aW1nLzIzMDE1MjM2LnBuZw==/347x500/dsnUsN.png"/></td>
       <td><img src=""/></td>
     </tr>
     <tr>
