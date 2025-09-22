@@ -17,8 +17,8 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
       <td><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top"> </td>
-      <td valign="text-top""> <div></div></td>
+      <td valign="text-top"> Santapan Nusantara is a</td>
+      <td valign="text-top"> Ngonten Aja Dulu is a</td>
     </tr>
     <tr>
       <td><a href="">Itch Page</td>
