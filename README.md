@@ -7,8 +7,8 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="">Santapan Nusantara</a></th>
-      <th width="50%"><a href="">Ngonten Aja Dulu</a></th>
+      <th width="50%"><a href="">Unfound</a></th>
+      <th width="50%"><a href="">Dimension Switcher</a></th>
     </tr>
   </thead>
   <tbody>
@@ -32,7 +32,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="">R14's Guide to Growing Up</a></th>
+      <th width="50%"><a href="">Run n Beat</a></th>
       <th width="50%"><a href="">Broken</a></th>
     </tr>
   </thead>
