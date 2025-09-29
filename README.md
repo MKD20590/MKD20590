@@ -8,13 +8,13 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   <thead>
     <tr>
       <th width="50%"><a href="">Unfound</a></th>
-      <th width="50%"><a href="">Dimension Switcher</a></th>
+      <th width="50%"><a href="https://github.com/MKD20590/Dimension-Switcher">Dimension Switcher</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src=""/></td>
-      <td><img src="https://github.com/MKD20590/Dimension-Switcher"/></td>
+      <td><img src=""/></td>
     </tr>
     <tr>
       <td valign="text-top"> Santapan Nusantara is a</td>
@@ -32,14 +32,14 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="">Run n Beat</a></th>
-      <th width="50%"><a href="">Broken</a></th>
+      <th width="50%"><a href="https://github.com/MKD20590/run-n-beat">Run n Beat</a></th>
+      <th width="50%"><a href="https://github.com/MKD20590/Broken">Broken</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/MKD20590/run-n-beat"/></td>
-      <td><img src="https://github.com/MKD20590/Broken"/></td>
+      <td><img src=""/></td>
+      <td><img src=""/></td>
     </tr>
     <tr>
       <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
