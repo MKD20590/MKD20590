@@ -17,8 +17,9 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
       <td><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top"> Santapan Nusantara is a</td>
-      <td valign="text-top"> Ngonten Aja Dulu is a</td>
+      <td valign="text-top">"Unfound" is a Singleplayer horror game where the player takes the role of a volunteer sent to rescue five missing children in the woods. Player can choose one child to be companion and rescue the others while there is something lurking in the darkness</td>
+      <td valign="text-top">"Dimension Switcher" is a casual platformer game where a young girl named “Daisy Bloom” who was walking her dog named “Cooper”. But suddenly, Cooper ran off and Daisy couldn’t catch up with him at all. Worried that something might happen to Cooper, she keeps yelling “Cooper!” and explore the park by herself. While she was walking, she met with a living sign named “Signor” who got curious and silently following Daisy. Signor then helped Daisy by giving her a device to switch between dimension, allowing her to face any obstacles easily and catch up with cooper.
+</td>
     </tr>
     <tr>
       <td><a href="">Itch Page</td>
@@ -42,12 +43,12 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
       <td><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
-      <td valign="text-top">Interstellar Janitor is my try at making tile-based movement and some dialogue system. The game itself was made for Brackeys Game Jam 2022.2 and was themed around the Jam theme "You're not alone". It's a logic puzzle game where you need to read clues scattered around the spaceship to deduce some objects that might just be an alien in disguise.<br></td>
+      <td valign="text-top">"Run n Beat" is a 3d rhythm game where </td>
+      <td valign="text-top">“BROKEN” is a psychological horror puzzle-adventure where you play as a child trapped in a warped world fabricated by their fractured mind. As twisted memories take the shape of monstrous figures from real life, you must confront each one to uncover the truth, reconnect with fragments of reality, and ultimately question what “normal” even means.<br></td>
     </tr>
     <tr>
       <td><a href="">Itch Page</td>
-      <td><a href="">Itch Page</td>
+      <td><a href="https://ajege.itch.io/broken">Itch Page</td>
     </tr>
   </tbody>
 </table>
