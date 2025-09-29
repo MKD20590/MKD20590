@@ -14,7 +14,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   <tbody>
     <tr>
       <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/MKD20590/Dimension-Switcher"/></td>
     </tr>
     <tr>
       <td valign="text-top"> Santapan Nusantara is a</td>
@@ -38,8 +38,8 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   </thead>
   <tbody>
     <tr>
-      <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/MKD20590/run-n-beat"/></td>
+      <td><img src="https://github.com/MKD20590/Broken"/></td>
     </tr>
     <tr>
       <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
