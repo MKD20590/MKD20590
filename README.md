@@ -1,7 +1,7 @@
 # Hi, I'm Jeslyn Marianne Djunaidy 👋
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 </br>
-You can check and download games I've developed at [my itch page](https://mkd-jmd.itch.io/)
+You can check and download games I've developed at [my itch page](https://mkd-jmd.itch.io/) and check out my notion page at [my notion page](https://www.notion.so/Jeslyn-s-Portfolio-4deffa7ea5ab4be6a0ab2ee811fd3d3c)
 
 # Here are highlights from some of the games I made:
 <table width="100%">
