@@ -1,6 +1,6 @@
 # Hi, I'm Jeslyn Marianne Djunaidy 👋
 ---
-Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮. I learned coding from Coding Bee (course), Bina Nusantara game development workshop, and 6-month google play x unity training program. I have been making some games especially for competitions for around 2 years.</br></br>
+Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮. I learned coding from Coding Bee (course), Bina Nusantara game development workshop, and 6-months Google Play X Unity training program. I have been making some games especially for competitions for around 2 years.</br></br>
 You can check and download games I've developed at [my itch page](https://mkd-jmd.itch.io/) and my notion page at [my notion page](https://www.notion.so/Jeslyn-s-Portfolio-4deffa7ea5ab4be6a0ab2ee811fd3d3c)</br></br>
 📩My Email: jeslynmarianne2455@gmail.com
 
