@@ -18,8 +18,8 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
       <td><img src="https://github.com/user-attachments/assets/9edfe1bf-e794-45ce-b05a-ffa491b77f52"/></td>
     </tr>
     <tr>
-      <td valign="text-top">"Unfound" is a Singleplayer horror game where the player takes the role of a volunteer sent to rescue five missing children in the woods. Player can choose one child to be companion and rescue the others while there is something lurking in the darkness. This project is under development stage and for a university course.</td>
-      <td valign="text-top">"Dimension Switcher" is a casual platformer game where a young girl named “Daisy Bloom” who was walking her dog named “Cooper”. But suddenly, Cooper ran off and Daisy couldn’t catch up with him at all. Worried that something might happen to Cooper, she keeps yelling “Cooper!” and explore the park by herself. While she was walking, she met with a living sign named “Signor” who got curious and silently following Daisy. Signor then helped Daisy by giving her a device to switch between dimension, allowing her to face any obstacles easily and catch up with cooper. This project is completed around 1 month and for a university course.
+      <td valign="text-top">"Unfound" is a Singleplayer horror game where the player takes the role of a volunteer sent to rescue five missing children in the woods. Player can choose one child to be their companion and rescue the others while there is something lurking in the darkness. This project is under development stage and for a university course.</td>
+      <td valign="text-top">"Dimension Switcher" is a casual platformer game the player can change dimension between 2D or 3D in order to complete the level. The main objectives are to avoid getting hurt and find Cooper the dog. This project is completed around 1 month and for a university course.
 </td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
       <td><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top">"Run n Beat" is a 3D rhythm platformer game where the player is encouraged to dodge obstacles in order to finish the music. The obstacles would appear depending on the beat of the music, so it's up to the player to try and survive while enjoying the upbeat music. This project is completed in 1 month and for a final project in tuition course.</td>
+      <td valign="text-top">"Run n Beat" is a 3D rhythm platformer game where the player is encouraged to dodge obstacles in order to finish the music. The obstacles would appear depending on the beat of the music, so it's up to the player to try and survive while enjoying the upbeat music. This project is completed in 2 months and for a final project in tuition course.</td>
       <td valign="text-top">“BROKEN” is a psychological horror puzzle-adventure where you play as a child trapped in a warped world fabricated by their fractured mind. As twisted memories take the shape of monstrous figures from real life, you must confront each one to uncover the truth, reconnect with fragments of reality, and ultimately question what “normal” even means. This project is completed in 1 month and for COMPFEST Indie Game Ignite Competition.</td>
     </tr>
     <tr>
