@@ -14,7 +14,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   <tbody>
     <tr>
       <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/user-attachments/assets/9edfe1bf-e794-45ce-b05a-ffa491b77f52"/></td>
     </tr>
     <tr>
       <td valign="text-top">"Unfound" is a Singleplayer horror game where the player takes the role of a volunteer sent to rescue five missing children in the woods. Player can choose one child to be companion and rescue the others while there is something lurking in the darkness. This project is under development stage and for a university course.</td>
@@ -43,7 +43,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   </thead>
   <tbody>
     <tr>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/user-attachments/assets/4ead64f7-5e86-4486-a240-073cb6557bc7"/></td>
       <td><img src=""/></td>
     </tr>
     <tr>
