@@ -2,7 +2,7 @@
 ---
 Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮. I learned coding from Coding Bee (course), Bina Nusantara game development workshop, and 6-month google play x unity training program. I have been making some games especially for competitions for around 2 years.</br></br>
 You can check and download games I've developed at [my itch page](https://mkd-jmd.itch.io/) and check out my notion page at [my notion page](https://www.notion.so/Jeslyn-s-Portfolio-4deffa7ea5ab4be6a0ab2ee811fd3d3c)</br></br>
-My Email: jeslynmarianne2455@gmail.com
+📩My Email: jeslynmarianne2455@gmail.com
 
 # Here are highlights from some of the games I made:
 <table width="100%">
