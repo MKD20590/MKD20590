@@ -48,7 +48,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
       <td><img src="https://github.com/user-attachments/assets/e1a3a68b-9c25-4537-8e92-c57ad989559f"/></td>
     </tr>
     <tr>
-      <td valign="text-top">"Symbiosis" is a 2D side-scrolling puzzle game where the player is encouraged to "restore" nature by completing mini-games, puzzles, and progressing the story. This project is still under development and for a ITS MAGE XI Game Development Competition.</td>
+      <td valign="text-top">"Symbiosis" is a 2D side-scrolling puzzle game where the player is encouraged to "restore" nature by completing mini-games, puzzles, and progressing the story. This project is still under development and for ITS MAGE XI Game Development Competition.</td>
       <td valign="text-top">“BROKEN” is a psychological horror puzzle-adventure where you play as a child trapped in a warped world fabricated by their fractured mind. As twisted memories take the shape of monstrous figures from real life, you must confront each one to uncover the truth, reconnect with fragments of reality, and ultimately question what “normal” even means. This project is completed in 1 month and for COMPFEST Indie Game Ignite Competition.</td>
     </tr>
     <tr>
