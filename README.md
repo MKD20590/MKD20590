@@ -38,25 +38,25 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%">Run n Beat</a></th>
+      <th width="50%">Symbiosis</a></th>
       <th width="50%">Broken</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/4ead64f7-5e86-4486-a240-073cb6557bc7"/></td>
+      <td><img src=""/></td>
       <td><img src="https://github.com/user-attachments/assets/e1a3a68b-9c25-4537-8e92-c57ad989559f"/></td>
     </tr>
     <tr>
-      <td valign="text-top">"Run n Beat" is a 3D rhythm platformer game where the player is encouraged to dodge obstacles in order to finish the music. The obstacles would appear depending on the beat of the music, so it's up to the player to try and survive while enjoying the upbeat music. This project is completed in 2 months and for a final project in tuition course.</td>
+      <td valign="text-top">"Symbiosis" is a 2D side-scrolling puzzle game where the player is encouraged to "restore" nature by completing mini-games, puzzles, and progressing the story. This project is still under development and for a ITS MAGE XI Game Development Competition.</td>
       <td valign="text-top">“BROKEN” is a psychological horror puzzle-adventure where you play as a child trapped in a warped world fabricated by their fractured mind. As twisted memories take the shape of monstrous figures from real life, you must confront each one to uncover the truth, reconnect with fragments of reality, and ultimately question what “normal” even means. This project is completed in 1 month and for COMPFEST Indie Game Ignite Competition.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MKD20590/run-n-beat">Read More</td>
+      <td><a href="https://github.com/MKD20590/Symbiosis">Read More</td>
       <td><a href="https://github.com/MKD20590/Broken">Read More</td>
     </tr>
     <tr>
-      <td><a href="https://mkd-jmd.itch.io/run-n-beat">Itch Page (pass: JustRnB!)</td>
+      <td><a href="">Itch Page</td>
       <td><a href="https://ajege.itch.io/broken">Itch Page</td>
     </tr>
   </tbody>
