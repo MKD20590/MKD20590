@@ -14,8 +14,8 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   </thead>
   <tbody>
     <tr>
-      <td><img src=""/></td>
-      <td><img src="https://github.com/user-attachments/assets/9edfe1bf-e794-45ce-b05a-ffa491b77f52"/></td>
+      <td align="center"><img src=""/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/9edfe1bf-e794-45ce-b05a-ffa491b77f52"/></td>
     </tr>
     <tr>
       <td valign="text-top">"Unfound" is a Singleplayer horror game where the player takes the role of a volunteer sent to rescue five missing children in the woods. Player can choose one child to be their companion and rescue the others while there is something lurking in the darkness. This project is under development stage and for a university course.</td>
@@ -44,8 +44,8 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/4ead64f7-5e86-4486-a240-073cb6557bc7"/></td>
-      <td><img src="https://github.com/user-attachments/assets/e1a3a68b-9c25-4537-8e92-c57ad989559f"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/4ead64f7-5e86-4486-a240-073cb6557bc7"/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/e1a3a68b-9c25-4537-8e92-c57ad989559f"/></td>
     </tr>
     <tr>
       <td valign="text-top">"Run n Beat" is a 3D rhythm platformer game where the player is encouraged to dodge obstacles in order to finish the music. The obstacles would appear depending on the beat of the music, so it's up to the player to try and survive while enjoying the upbeat music. This project is completed in 2 months and for a final project in tuition course.</td>
