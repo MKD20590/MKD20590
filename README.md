@@ -14,7 +14,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src=""/></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/1890126a-f89d-4c1e-9177-93abfcab6fe8"/></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/9edfe1bf-e794-45ce-b05a-ffa491b77f52"/></td>
     </tr>
     <tr>
