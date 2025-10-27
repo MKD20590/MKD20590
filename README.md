@@ -64,11 +64,11 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
         <tr>
       <td valign="top" align="center">
         Total Hours On The Project:<br>
-        50-60 Hours
+        30-45 Hours
       </td> 
       <td valign="top" align="center">
         Total Hours On The Project:<br>
-        40-50 Hours
+        50-70 Hours
       </td>
     </tr>
     <tr>
