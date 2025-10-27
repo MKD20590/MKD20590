@@ -19,7 +19,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
     </tr>
     <tr>
       <td valign="text-top">"The Crooked Woods" is a singleplayer horror game where the player takes the role of a volunteer sent to rescue five missing children in the woods. During this project, I helped with the game design and focused on using abstract class for interactables and NPC's pathfinding movement.</td>
-      <td valign="text-top">"Dimension Switcher" is a casual platformer game the player can change dimension between 2D or 3D in order to complete the level. This is one of my solo project where I designed the game, characters, music, and also being the game programmer.</td>
+      <td valign="text-top">"Dimension Switcher" is a casual platformer game the player can change dimension between 2D or 3D in order to complete the level. This is one of my solo projects where I designed the game, characters, music, and also being the game programmer.</td>
     </tr>
       <tr>
       <td valign="top" align="center">
@@ -73,10 +73,10 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
     </tr>
     <tr>
       <td valign="top" align="center">
-        Game Programmer & Artist & Designer
+        Made for Scream Jam - Game Programmer
       </td>
       <td valign="top" align="center">
-        COMPFEST 17 Indie Game Game Ignite 2025- Audience Favorite and Student Award - Game Programmer
+        Game Programmer & Artist & Designer
       </td>
     </tr>
     <tr>
