@@ -36,7 +36,7 @@ You can check and download games I've developed at [my itch page](https://mkd-jm
               <ul style="white-space: nowrap; list-style-position: inside; padding-left: 0;">
               <li>Rescure children mechanic</li>
               <li>Randomized monster spawn mechanic</li>
-              <li>NPC movement</li>
+              <li>NPC pathfinding movement</li>
             </td>
           </tr>
         </table>
